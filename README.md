@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @boudjenah-youcef-flutter-react
-- 👀 I’m interested in mobile div (flutter)
+- 👀 I’m interested in mobile div (flutter) & web (react)
 - 🌱 I’m currently learning  flutter & react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  boudjenahyoucef22@gmail.com
