@@ -1,5 +1,5 @@
 # 💫About Me :
-👋 Hi, I’m @boudjenah-youcef-flutter-react  
+👋 Hi, I’m boudjenah youcef 
 👀 I’m interested in mobile dev (Flutter) & web (React)  
 🌱 I’m currently learning Flutter & React  
 💞️ I’m looking to collaborate on ...  
